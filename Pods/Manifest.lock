@@ -1,0 +1,17 @@
+PODS:
+  - Fuzi (1.0.1)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+
+DEPENDENCIES:
+  - Fuzi (~> 1.0.0)
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  Fuzi: 851403654bac55675aaeed815d0c8a1d3e3d3e8b
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+
+PODFILE CHECKSUM: b9213ffc9bec671e7d6de6637922842f85624670
+
+COCOAPODS: 1.2.1
